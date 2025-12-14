@@ -8,4 +8,8 @@
 		<GHPagesBase>/</GHPagesBase>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Bluehill.Blazor.GHPages" Version="1.0.3" />
+  </ItemGroup>
+
 </Project>
