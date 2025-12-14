@@ -2,5 +2,6 @@
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <ActiveDebugProfile>https</ActiveDebugProfile>
+    <NameOfLastUsedPublishProfile>E:\GD\Blazor\proj\BlazorApp1\.github\workflows\gh-pages.yml</NameOfLastUsedPublishProfile>
   </PropertyGroup>
 </Project>
